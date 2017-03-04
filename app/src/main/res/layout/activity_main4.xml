@@ -1,0 +1,120 @@
+<ScrollView android:layout_height="wrap_content"
+    android:layout_width="fill_parent"
+    android:orientation="vertical"
+    android:padding="10dp"
+    android:fillViewport="false"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+   android:orientation="vertical"
+    android:background="#000000"
+    >
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Faculty Advisor"
+        android:textStyle="bold"
+        android:textColor="#d80036"
+        android:textSize="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Govind Verma"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:textSize="30dp"
+        />
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Jasvinder"
+    android:textStyle="bold"
+    android:textColor="#ffffff"
+    android:textSize="30dp"
+    />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Campus Ambassador"
+        android:textStyle="bold"
+        android:textColor="#d80036"
+        android:textSize="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Shaman Tyagi"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:textSize="30dp"
+        />
+    <TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Development"
+    android:textStyle="bold"
+    android:textColor="#d80036"
+    android:textSize="30dp"
+    /><TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Ayush Tyagi"
+    android:textStyle="bold"
+    android:textColor="#ffffff"
+    android:textSize="30dp"
+    /><TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Problem Setter"
+    android:textStyle="bold"
+    android:textColor="#d80036"
+    android:textSize="30dp"
+    /><TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Shaman Tyagi"
+    android:textStyle="bold"
+    android:textColor="#ffffff"
+    android:textSize="30dp"
+    /><TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Problem Tester"
+    android:textStyle="bold"
+    android:textColor="#d80036"
+    android:textSize="30dp"
+    /><TextView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:text="Shaman Tyagi"
+    android:textStyle="bold"
+    android:textColor="#ffffff"
+    android:textSize="30dp"
+    />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Management"
+        android:textStyle="bold"
+        android:textColor="#d80036"
+        android:textSize="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sumit Verma"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:textSize="30dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Vaibhav Raj"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:textSize="30dp"
+        />
+</LinearLayout></ScrollView>

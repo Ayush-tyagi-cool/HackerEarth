@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="button_pressed_yellow">#f0f0f0</drawable>
+    <drawable name="button_focused_orange">#ffffff</drawable>
+    <drawable name="button_normal_green">#000000</drawable>
+</resources>
